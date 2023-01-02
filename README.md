@@ -11,6 +11,10 @@
 
 
 
+## Live Version
+
+-This site was built using [GitHub Pages](https://safar1212.github.io/portfolio-2/).
+
 ## Built With
 
 - HTML, CSS and Javascript
