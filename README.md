@@ -4,11 +4,15 @@
 
 ## Desktop Version:
 
+![2023-01-04_22-47-48](https://user-images.githubusercontent.com/78845635/210617900-961f144a-5e98-4a61-97d0-0ca18c612aef.jpg)
 
+
+![2023-01-04_22-48-15](https://user-images.githubusercontent.com/78845635/210617945-9bb1992a-abe5-4bf8-a97a-11a4a828ad5c.jpg)
 
 
 ## Mobile Version:
 
+![2023-01-04_22-48-47](https://user-images.githubusercontent.com/78845635/210617980-0c543a5c-428a-49ba-b9b6-85e3018e6901.jpg)
 
 
 ## Live Version
