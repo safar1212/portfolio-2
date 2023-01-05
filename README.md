@@ -38,17 +38,13 @@
 
 
 
-## Live Preview
-
-
-
 ## Authors
 
 👤 **Safar Ali**
 
 - GitHub: [@githubhandle](https://github.com/safar1212)
 - Twitter: [@twitterhandle](https://twitter.com/safarali999)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/safar-ali999)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/safar9)
 
 ## 🤝 Contributing
 
